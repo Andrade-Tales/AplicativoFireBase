@@ -1,2 +1,2 @@
 # AplicativoFireBase
-CRUD usando firebase e serviços do goolge.
+CRUD usando firebase e serviços do google.
